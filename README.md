@@ -40,4 +40,4 @@ Requires `Microphone` and `Internet Connection` to Operate.
 Use Command `git clone https://github.com/naqviO7/Tars.git` to Download
 
 ## IGNORE ERRORS IF ANY!
-Still Learnging and Trying to Make IT BETTER!
+Still Learning and Trying to Make IT BETTER!
