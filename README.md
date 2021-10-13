@@ -1,8 +1,10 @@
 # Tars
 ## Intorduction:
 Simple Virtual Desktop Assistant. 
-
-Basic AI to perfrom various Basic Tasks like tell time, date, open/close browser and turnoff etc.
+Created after getting Inspiration from Interstellar Movie.
+Try to Build in way so that It Make Things Easy for You.
+You can give It Commands that are Coded in In it.
+Performs Various Basic Tasks like tell time, date, open/close browser and turnoff etc.
 
 # Capable of:
 1. Iroduce itslef 
@@ -23,3 +25,16 @@ Basic AI to perfrom various Basic Tasks like tell time, date, open/close browser
 
 # Source Code Png.
 ![carbon](https://user-images.githubusercontent.com/79792270/137187077-f2d4db05-01f8-4d06-8897-039b536bbbe3.png)
+
+## Make It EXE:
+Use Command:
+`pyinstaller filename.py --onefile` to make It exe.
+
+## Command To Run:
+python3 `filename.py` 
+
+## NOTE:
+Requires `Microphone` and `Internet Connection` to Operate.
+
+## IGNORE ERRORS IF ANY!
+Still Learnging and Trying to M
