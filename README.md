@@ -37,4 +37,4 @@ python3 `filename.py`
 Requires `Microphone` and `Internet Connection` to Operate.
 
 ## IGNORE ERRORS IF ANY!
-Still Learnging and Trying to M
+Still Learnging and Trying to Make IT BETTER!
