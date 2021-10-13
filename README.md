@@ -36,5 +36,8 @@ python3 `filename.py`
 ## NOTE:
 Requires `Microphone` and `Internet Connection` to Operate.
 
+## How to Download:
+Use Command `git clone https://github.com/naqviO7/Tars.git` to Download
+
 ## IGNORE ERRORS IF ANY!
 Still Learnging and Trying to Make IT BETTER!
